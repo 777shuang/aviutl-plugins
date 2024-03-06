@@ -1,4 +1,5 @@
-■本規約について■
+# 本規約について
+
 Copyright (c) 2023 黒猫大福@roku10shi
 Released under the MIT license
 
@@ -21,29 +22,27 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-■本プログラムについて■
+# 本プログラムについて
+
 「黒猫大福」（以下、私という）が、「ごちゃまぜドロップス」と「AviUtlSvg」を使って
 簡単にAviUtlの拡張編集にドラッグ＆ドロップできるように作成したプログラムです。
 
-■ごちゃまぜドロップスについて■
+# ごちゃまぜドロップスについて
+
 「ごちゃまぜドロップス」は拡張編集ウィンドウへファイルやテキストをドラッグ＆ドロップした時の挙動を拡張するための AviUtl プラグインです。
 
-・ごちゃまぜドロップスのGithub
-https://github.com/oov/aviutl_gcmzdrops
+* [ごちゃまぜドロップスのGithub](https://github.com/oov/aviutl_gcmzdrops)
+* [おおぶ様のTwitter](https://twitter.com/oovch)
 
-・おおぶ様のTwitter
-https://twitter.com/oovch
+# AviUtlSvgについて
 
-■AviUtlSvgについて■
 「AviUtlSvg」はAviUtlで*.svgファイルを表示するスクリプトです
 
-・AviUtlSvgの配布サイト
-https://onedrive.live.com/?authkey=%21ABNo3i9YR5%5FdnT8&id=26840CDF9818EB8E%21349&cid=26840CDF9818EB8E
+* [AviUtlSvgの配布サイト](https://onedrive.live.com/?authkey=%21ABNo3i9YR5%5FdnT8&id=26840CDF9818EB8E%21349&cid=26840CDF9818EB8E)
+* [MaverickTse様のTwitter](https://twitter.com/mavericktse)
 
-・MaverickTse様のTwitter
-https://twitter.com/mavericktse
+# 利用方法について
 
-■利用方法について■
 使い方、ごちゃまぜドロップス（v0.4.0beta9で動作確認済み）をインストールします。(安定版のv0.3.25でもご利用可能です。)
 同梱の「GCMZDrops」フォルダを「exedit.auf」が存在するフォルダにドラッグ＆ドロップします。
 
@@ -52,17 +51,17 @@ AviUtlSvgをダウンロードしてscriptフォルダにスクリプトを配置します。
 拡張編集に「*.svg」ファイルを
 ドラッグ＆ドロップすると「AviUtlSvg」のカスタムオブジェクトが設置されます。
 
-■更新履歴■
+# 更新履歴
 2023/02/23
 ・初版
 
-■連絡先■
+# 連絡先
 
 本プログラムについてお問い合わせがある場合は、
 運営のTwitterのダイレクトメッセージよりお願いいたします。
 https://twitter.com/roku10shi
 
 
-■制定日■
+# 制定日
 
 2023年02月23日
